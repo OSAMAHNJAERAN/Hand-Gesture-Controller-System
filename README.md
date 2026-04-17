@@ -28,8 +28,8 @@ A powerful, real-time Python application that allows you to control your compute
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/hand-gesture-controller.git
-   cd hand-gesture-controller
+   git clone https://github.com/OSAMAHNJAERAN/Hand-Gesture-Controller-System.git
+   cd Hand-Gesture-Controller-System
    ```
 
 2. **Install dependencies**:
