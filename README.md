@@ -66,8 +66,4 @@ python main.py
 ## 📝 Configuration
 You can adjust sensitivity, smoothing, and gesture thresholds in `main.py` and `mouse_controller.py` to match your environment.
 
-## 📜 License
-This project is open-source and available under the MIT License.
 
----
-*Created with ❤️ by Antigravity*
