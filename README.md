@@ -2,7 +2,6 @@
 
 A powerful, real-time Python application that allows you to control your computer and presentations using hand gestures. Powered by **MediaPipe** and **OpenCV**, this system provides a seamless touchless experience for mouse control, volume adjustment, and slide navigation.
 
-# Project Title
 
 ## <font color="red">This project is currently **incomplete**.</font>
 
